@@ -11,6 +11,12 @@
     <td align='center'>
         <img src="./images/javascript_logo.svg" width="50">
     </td>
+    <td align='center'>
+        <img src="./images/javascript_logo.svg" width="50">
+    </td>
+    <td align='center'>
+        <img src="./images/javascript_logo.svg" width="50">
+    </td>
 <!--     <td align='center'>
         <img src="./images/react_logo.svg" width="50">
     </td>
