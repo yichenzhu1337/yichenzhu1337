@@ -2,16 +2,16 @@
 
 <table>
 <tr>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="./images/html_logo.svg" width="50">
     </td>
       <td align='center'>
         <img src="./images/css_logo.svg" width="50">
-    </td>
+    </td> -->
     <td align='center'>
         <img src="./images/javascript_logo.svg" width="50">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="./images/react_logo.svg" width="50">
     </td>
     <td align='center'>
@@ -19,6 +19,6 @@
     </td>
     <td align='center'>
         <img src="./images/typescript_logo.svg" width="50">
-    </td>
+    </td> -->
 </tr>
 </table>
